@@ -1,1 +1,1 @@
-# -P-automation-playground-FRONT
+# automation-playground-FRONT
